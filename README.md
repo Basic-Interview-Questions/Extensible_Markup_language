@@ -3,9 +3,9 @@
 ##Questions:
 <ul>
 1. What does XML stands for ?
-<li>[] A. eXtra Modern Link
-<li>[x] B. eXtensible Markup Language
-<li>[] C. Example Markup Language
-<li>[] D. X-Markup Language
+- [ ] eXtra Modern Link
+- [x] eXtensible Markup Language
+- [ ] Example Markup Language
+- [ ] X-Markup Language
 </ul>
 <hr />
