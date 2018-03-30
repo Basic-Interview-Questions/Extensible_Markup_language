@@ -2,7 +2,7 @@
 
 ## Questions:
 <ul>
-### 1. What does XML stands for?
+<b> 1. What does XML stands for? </b>
 <li> eXtra Modern Link
 <li> eXtensible Markup Language [x]
 <li> Example Markup Language
